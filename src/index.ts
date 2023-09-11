@@ -7,7 +7,7 @@ export function activate(context: ExtensionContext) {
     registerCommand('fastEmpty.delete', (current, selections: Uri[]) => {
       const start = Date.now()
       rimraf(selections.map(item => item.path)).then((isSuccess) => {
-        message.info(isSuccess ? `删除成功 🎉: ${(Date.now() - start) / 1000}s` : '删除失败 ❌')
+        message.info(isSuccess ? `删除成功 🎉 （${(Date.now() - start) / 1000}s）` : '删除失败 ❌')
       })
     }),
   )

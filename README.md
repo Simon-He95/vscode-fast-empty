@@ -3,7 +3,9 @@
 </p>
 <p align="center"> English | <a href="./README_zh.md">简体中文</a></p>
 
-Use the rimraf quick delete tool to complete the operation by right-clicking the quick delete.
+Use the rimraf quick delete tool to complete the operation by right-clicking the quick delete, shortcut key deletion is not supported yet.
+
+![demo](assets/demo.jpg)
 
 ## Thanks 💕
 - [rimraf](https://github.com/isaacs/rimraf)

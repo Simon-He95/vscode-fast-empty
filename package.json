@@ -2,7 +2,7 @@
   "publisher": "simonhe",
   "name": "vscode-fast-empty",
   "displayName": "vscode-fast-empty",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "packageManager": "pnpm@8.1.1",
   "description": "vscode-fast-empty",
   "author": "Simon He <https://github.com/Simon-He95>",

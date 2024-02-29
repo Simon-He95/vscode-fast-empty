@@ -37,7 +37,7 @@
     "commands": [
       {
         "command": "fastEmpty.delete",
-        "title": "快速删除"
+        "title": "%fastEmpty.delete.title%"
       }
     ],
     "menus": {
